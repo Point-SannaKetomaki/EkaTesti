@@ -1,0 +1,2 @@
+# EkaTesti
+Ensimmäinen GitHub-testirepos
