@@ -1,0 +1,7 @@
+C:\Users\OWNER\source\repos\Demolaskin-SKe\Demolaskin-SKe\bin\Debug\Demolaskin-SKe.exe.config
+C:\Users\OWNER\source\repos\Demolaskin-SKe\Demolaskin-SKe\bin\Debug\Demolaskin-SKe.exe
+C:\Users\OWNER\source\repos\Demolaskin-SKe\Demolaskin-SKe\bin\Debug\Demolaskin-SKe.pdb
+C:\Users\OWNER\source\repos\Demolaskin-SKe\Demolaskin-SKe\obj\Debug\Demolaskin-SKe.csprojAssemblyReference.cache
+C:\Users\OWNER\source\repos\Demolaskin-SKe\Demolaskin-SKe\obj\Debug\Demolaskin-SKe.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\source\repos\Demolaskin-SKe\Demolaskin-SKe\obj\Debug\Demolaskin-SKe.exe
+C:\Users\OWNER\source\repos\Demolaskin-SKe\Demolaskin-SKe\obj\Debug\Demolaskin-SKe.pdb
